@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻Hello my name is Revananda<br>🎓I studied at Polytechnic Negeri Semarang<br>☕I love coffee so much<br>💻I'm interested in becoming a back-end developer<br>👨🏻‍💻I'm still new to programming<br>🎮The games I play every day are visual novels.<br>🤝And it's a pleasure to introduce myself to you<br>
+👋🏻Hello my name is Revananda<br>🎓I studied at Polytechnic Negeri Semarang<br>💻I'm interested in becoming a back-end developer<br>👨🏻‍💻I'm still new to programming<br>
 
 
 ## 🌐 Socials:
